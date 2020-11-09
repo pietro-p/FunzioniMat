@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Matematica\FunzioniMatematiche.csproj" />
+    <ProjectReference Include="..\Matematica\LibreriaMatematica.csproj" />
   </ItemGroup>
 
 </Project>
