@@ -44,7 +44,7 @@ namespace FunzioniMatematiche
         /// <param name="a"></param>
         /// <param name="b"></param>
         /// <returns></returns>
-        public static double Moltipcicazione(double a, double b)
+        public static double Moltiplicazione(double a, double b)
         {
             return a * b;
 
